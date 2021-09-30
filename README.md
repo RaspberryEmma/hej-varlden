@@ -1,6 +1,6 @@
 # hej-varlden
 A practice repo, containing my new million dollar app idea - it prints "Hello, world!" to command line.
-Features 2 message languages, and 4 programming languages.
+Features 2 message languages, and 5 programming languages.
 
 Hello everyone!
 I'm a postgrad student with the University of Southampton.
